@@ -1,0 +1,19 @@
+{
+  "name": "dailybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "botbuilder": "^4.23.3",
+    "botbuilder-core": "^4.23.3",
+    "dotenv": "^17.2.2",
+    "node-cron": "^4.2.1",
+    "restify": "^11.1.0"
+  }
+}
